@@ -9,7 +9,7 @@ int function(int x){
 	x=function(x);
 	return x;
     }
-}
+} // functie care face lucruri
 
 int main(){
 	int a=30, i=0;
